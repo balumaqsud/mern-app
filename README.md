@@ -1,2 +1,2 @@
 # mern-app
-mern app
+mern appplication
